@@ -1,5 +1,5 @@
 # About
-This is a list ranking all the Red Sox players that finished the season with the team. I will seperate them into 3 main categories, Starting Pitcher, Relief Pitcher, and Position Player. I will use several different statistics in order to judge them. To save time i will only rank the people who played at least half the season (81 games) on the team.
+This is a list ranking all the Red Sox players that finished the season with the team. I will seperate them into 2 main categories, Starting Pitcher,  and Position Player. I am not doing relief pitchers because of my time constaints. I will use several different statistics in order to judge them. To save time i will only rank the people who played at least half the season (81 games) on the team.
 ![Picture of David Ortiz](https://imagesvc.timeincapp.com/v3/fan/image?url=https%3A%2F%2Fbosoxinjection.com%2Ffiles%2F2016%2F07%2Fdavid-ortiz-mlb-all-star-game-1.jpg&c=sc&w=736&h=485)
 
 # Terminology
@@ -56,7 +56,7 @@ This is a list ranking all the Red Sox players that finished the season with the
 2		    |[Xander Bogaerts](https://www.baseball-reference.com/players/b/bogaexa01.shtml)	    |R/R	|6'1"	|210lbs	|10/1/92
 23		|[Michael Chavis](https://www.baseball-reference.com/players/c/chavimi01.shtml)	    |R/R	|5'10"	|216lbs	|8/11/95
 11		|[Rafael Devers](https://www.baseball-reference.com/players/d/deverra01.shtml)	    |L/R	|6'0"	|237lbs	|10/24/96
-40		|[Marco Hernandez](https://www.baseball-reference.com/players/h/hernama02.shtml)	   L/R	|6'0"	|200lbs	|9/6/92
+40		|[Marco Hernandez](https://www.baseball-reference.com/players/h/hernama02.shtml)	   |L/R	|6'0"	|200lbs	|9/6/92
 12		|[Brock Holt](https://www.baseball-reference.com/players/h/holtbr01.shtml)	        |L/R	|5'10"	|180lbs	|6/11/88
 5		    |[Tzu-Wei Lin](https://www.baseball-reference.com/players/l/lintz02.shtml)    	|L/R	|5'9"	|155lbs	|2/15/94
 18		|[Mitch Moreland](https://www.baseball-reference.com/players/m/morelmi01.shtml)	    |L/L	|6'2"	|230lbs	|9/6/85
@@ -81,11 +81,7 @@ This is a list ranking all the Red Sox players that finished the season with the
 - L: 6
 - ERA: 3.81
 - SO: 213
-- WHIP:
-
-
-
-
+- WHIP: 1.328
 
 2. Rick Porcello
 - G: 32
@@ -93,11 +89,7 @@ This is a list ranking all the Red Sox players that finished the season with the
 - L: 12
 - ERA: 5.52
 - SO: 143
-- WHIP:
-
-
-
-
+- WHIP: 1.394
 
 3. Chris Sale
 - G: 25
@@ -105,12 +97,7 @@ This is a list ranking all the Red Sox players that finished the season with the
 - L: 11
 - ERA: 4.40
 - SO: 218
-- WHIP:
-
-
-
-
-
+- WHIP: 1.086
 
 4. David Price
 - G: 22
@@ -118,9 +105,7 @@ This is a list ranking all the Red Sox players that finished the season with the
 - L: 5
 - ERA: 4.28
 - SO: 128
-- WHIP:
-
-
+- WHIP: 1.314
 
 5. Nathan Eovaldi
 - G: 23
@@ -128,7 +113,115 @@ This is a list ranking all the Red Sox players that finished the season with the
 - L: 1
 - ERA: 5.99
 - SO: 70
-- WHIP:
+- WHIP: 1.581
+
+
+# Position Player Rankings
+I will only be ranking the players that started at least half the season.
+
+1. Rafael Devers
+- BA: .311
+- HR:  32
+- RBI: 115
+- OBP:.361
+- OPS:.916
+- SLG:.555
+- WAR: 5.3
+
+2. Xander Bogaerts
+- BA: .309
+- HR:  33
+- RBI: 117
+- OBP: .384
+- OPS: .939
+- SLG: .555
+- WAR: 5.2
+
+3. J.D. Martinez
+- BA: .304
+- HR:  36
+- RBI: 105
+- OBP: .383
+- OPS: .939
+- SLG: .557
+- WAR:  3.3
+
+4. Mookie Betts
+- BA: .295
+- HR:  29
+- RBI: 80
+- OBP: .391
+- OPS: .915
+- SLG: .524
+- WAR: 6.8
+
+5. Christion Vazquez
+- BA: .276
+- HR:  23
+- RBI: 72
+- OBP: .320
+- OPS: .798
+- SLG: .477
+- WAR: 2.2
+
+6. Andrew Benintendi
+- BA: .266
+- HR:  13
+- RBI: 68
+- OBP: .343
+- OPS: .774
+- SLG: .431
+- WAR: 1.7
+
+7. Jackie Bradley Jr.
+- BA: 
+- HR:  
+- RBI:
+- OBP:
+- OPS:
+- SLG:
+- WAR:
+
+8. Sandy Leon
+- BA: 
+- HR:  
+- RBI:
+- OBP:
+- OPS:
+- SLG:
+- WAR:
+
+9. Chris Owings
+- BA: 
+- HR:  
+- RBI:
+- OBP:
+- OPS:
+- SLG:
+- WAR:
+
+10. Marco Hernandez
+- BA: 
+- HR:  
+- RBI:
+- OBP:
+- OPS:
+- SLG:
+- WAR:
+
+11. Sam Travis
+- BA: 
+- HR:  
+- RBI:
+- OBP:
+- OPS:
+- SLG:
+- WAR:
+
+
+# Things i could Improve
+If i had more time i could add the relief pitchers or give a little summary for each player instead of just statistics
+
 
 
 
