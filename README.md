@@ -1,6 +1,12 @@
 # About
-This is a list ranking all the Red Sox players that finished the season with the team. I will seperate them into 2 main categories, Starting Pitcher,  and Position Player. I am not doing relief pitchers because of my time constaints. I will use several different statistics in order to judge them. To save time i will only rank the people who played at least half the season (81 games) on the team.
+This is a list ranking all the Red Sox players that finished the season with the team. I will seperate them into 2 main categories, **Starting Pitcher**,  and **Position Player**. I am not doing relief pitchers because of my time constaints. I will use several different statistics in order to judge them. To save time i will only rank the people who played at least half the season (81 games) on the team.
 ![Picture of David Ortiz](https://imagesvc.timeincapp.com/v3/fan/image?url=https%3A%2F%2Fbosoxinjection.com%2Ffiles%2F2016%2F07%2Fdavid-ortiz-mlb-all-star-game-1.jpg&c=sc&w=736&h=485)
+
+> Here's the thing about Red Sox fans, or actually just fans from that region, in general: they appreciate the effort. And if you mail it in or if you give 80 percent, even with a win, they'll let you know that's not how you do it. They want - if it's comedian, if it's a musician, bring us your best show.
+
+    - Dane Cook
+    
+    
 
 # Terminology
 - BA: Batting Average - How often someone gets a hit
@@ -174,50 +180,52 @@ I will only be ranking the players that started at least half the season.
 - WAR: 1.7
 
 7. Jackie Bradley Jr.
-- BA: 
-- HR:  
-- RBI:
-- OBP:
-- OPS:
-- SLG:
-- WAR:
+- BA: .225
+- HR:  21
+- RBI: 62
+- OBP: .317
+- OPS: .738
+- SLG: .421
+- WAR: 2.0
 
-8. Sandy Leon
-- BA: 
-- HR:  
-- RBI:
-- OBP:
-- OPS:
-- SLG:
-- WAR:
 
-9. Chris Owings
-- BA: 
-- HR:  
-- RBI:
-- OBP:
-- OPS:
-- SLG:
-- WAR:
+8. Sam Travis
+- BA: .215
+- HR:  6
+- RBI: 16
+- OBP: .274
+- OPS: .656
+- SLG: .382
+- WAR: -0.8
 
-10. Marco Hernandez
-- BA: 
-- HR:  
-- RBI:
-- OBP:
-- OPS:
-- SLG:
-- WAR:
+9.  Marco Hernandez
+- BA: .250
+- HR:  2
+- RBI: 11
+- OBP: .279
+- OPS: .617
+- SLG: .338
+- WAR: -0.2
 
-11. Sam Travis
-- BA: 
-- HR:  
-- RBI:
-- OBP:
-- OPS:
-- SLG:
-- WAR:
+10. Sandy Leon
+- BA: .192
+- HR:  5
+- RBI: 19
+- OBP: .251 
+- OPS: .548
+- SLG: .297
+- WAR: -0.5
 
+11. *Chris Owings*
+- BA: .156
+- HR:  1 
+- RBI: 5
+- OBP: .255
+- OPS: .522
+- SLG: .267
+- WAR: -0.1
+
+*Italics: Played part of the season on another team*
 
 # Things i could Improve
 If i had more time i could add the relief pitchers or give a little summary for each player instead of just statistics
